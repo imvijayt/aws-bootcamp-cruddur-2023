@@ -5,11 +5,11 @@ class HomeActivities:
     results = [{
       'uuid': '68f126b0-1ceb-4a33-88be-d90fa7109eee',
       'handle':  'Andrew Brown',
-      'message': 'Cloud is fun!',
+      'message': 'Cloud is Very fun!',
       'created_at': (now - timedelta(days=2)).isoformat(),
       'expires_at': (now + timedelta(days=5)).isoformat(),
-      'likes_count': 5,
-      'replies_count': 1,
+      'likes_count': 101,
+      'replies_count': 111,
       'reposts_count': 0,
       'replies': [{
         'uuid': '26e12864-1c26-5c3a-9658-97a10f8fea67',
